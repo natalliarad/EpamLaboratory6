@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityWith3Fragments</string>
+    <string name="open1Fragment">Открыть Фрагмент 1</string>
+    <string name="open2Fragment">Открыть фрагмент 2</string>
+    <string name="open3Fragment">Открыть фрагмент 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">Hello, it is a first fragment</string>
+    <string name="second_fragment">Hello, it is a second fragment!</string>
+    <string name="third_fragment">Hello, it is a third fragment!</string>
+</resources>
